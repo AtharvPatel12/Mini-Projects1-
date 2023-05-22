@@ -1,0 +1,36 @@
+div{
+    text-align:center;
+}
+#l{
+    font-size:10px; color:white;
+}
+#i{
+    font-size:10px;
+}
+#A{
+  background-color:yellow;
+}
+#o{
+ font-size:11px; color:yellow;
+}
+#m{
+    background-color:red;
+}
+#j{
+    font-size:11px; color:red;
+}
+#y{
+    background-color:green;
+}
+#t{
+    font-size:11px; color:green;
+}
+#r{
+    background-color:#F1A400;
+}
+#x{
+ font-size:11px; color:#F1A400;
+}
+#J{
+  color:#3600FF;  
+}
